@@ -1,7 +1,7 @@
 # Comprehensive English Premier League Match Dataset (2000–2026)
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22055597-blue)](https://zenodo.org/records/22055597)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22050038-blue)](https://doi.org/10.5281/zenodo.22050038)
 ![Matches](https://img.shields.io/badge/matches-9%2C880-brightgreen)
 ![Seasons](https://img.shields.io/badge/seasons-26-brightgreen)
 ![Columns](https://img.shields.io/badge/columns-65-brightgreen)
@@ -9,7 +9,7 @@
 A match-level dataset covering **26 English Premier League seasons**, from **2000/2001** through **2025/2026**, combining classic scoreline data with in-game statistics, Expected Goals (xG), end-of-season standings, managers, geography, historical club form, and head-to-head form — all in a single flat CSV, ready for machine learning and analysis.
 
 - 📦 **GitHub:** [RezaGooner/english-premier-league-match-dataset](https://github.com/RezaGooner/english-premier-league-match-dataset)
-- 📚 **Zenodo (citable, versioned):** [10.5281/zenodo.22050039](https://zenodo.org/records/22055597)
+- 📚 **Zenodo (citable, versioned):** [10.5281/zenodo.22050039](https://doi.org/10.5281/zenodo.22050038)
 
 ---
 
@@ -168,7 +168,7 @@ This is a **living dataset**:
 - Older/historical pre-2000 seasons may be added to extend coverage further back.
 - New seasons will be appended after each season concludes.
 
-Check the [Zenodo record](https://zenodo.org/records/22055597) for versioned, citable releases, and the [GitHub repo](https://github.com/RezaGooner/english-premier-league-match-dataset) for the latest in-progress work.
+Check the [Zenodo record](https://doi.org/10.5281/zenodo.22050038) for versioned, citable releases, and the [GitHub repo](https://github.com/RezaGooner/english-premier-league-match-dataset) for the latest in-progress work.
 
 ## Citation
 
@@ -180,8 +180,8 @@ If you use this dataset in academic or analytical work, please cite it via its Z
   title        = {Comprehensive English Premier League Match Dataset (2000-2026)},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.22055597},
-  url          = {https://zenodo.org/records/22055597}
+  doi          = {10.5281/zenodo.22050038},
+  url          = {https://doi.org/10.5281/zenodo.22050038}
 }
 ```
 
