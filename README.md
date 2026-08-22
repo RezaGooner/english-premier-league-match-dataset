@@ -168,7 +168,7 @@ This is a **living dataset**:
 - Older/historical pre-2000 seasons may be added to extend coverage further back.
 - New seasons will be appended after each season concludes.
 
-Check the [Zenodo record](https://zenodo.org/records/22050039) for versioned, citable releases, and the [GitHub repo](https://github.com/RezaGooner/english-premier-league-match-dataset) for the latest in-progress work.
+Check the [Zenodo record](https://zenodo.org/records/22055597) for versioned, citable releases, and the [GitHub repo](https://github.com/RezaGooner/english-premier-league-match-dataset) for the latest in-progress work.
 
 ## Citation
 
@@ -180,8 +180,8 @@ If you use this dataset in academic or analytical work, please cite it via its Z
   title        = {Comprehensive English Premier League Match Dataset (2000-2026)},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.22050039},
-  url          = {https://zenodo.org/records/22050039}
+  doi          = {10.5281/zenodo.22055597},
+  url          = {https://zenodo.org/records/22055597}
 }
 ```
 
