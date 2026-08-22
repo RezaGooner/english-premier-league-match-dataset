@@ -1,7 +1,7 @@
 # Comprehensive English Premier League Match Dataset (2000–2026)
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22050039-blue)](https://zenodo.org/records/22050039)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22055597-blue)](https://zenodo.org/records/22055597)
 ![Matches](https://img.shields.io/badge/matches-9%2C880-brightgreen)
 ![Seasons](https://img.shields.io/badge/seasons-26-brightgreen)
 ![Columns](https://img.shields.io/badge/columns-65-brightgreen)
