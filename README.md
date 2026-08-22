@@ -9,7 +9,7 @@
 A match-level dataset covering **26 English Premier League seasons**, from **2000/2001** through **2025/2026**, combining classic scoreline data with in-game statistics, Expected Goals (xG), end-of-season standings, managers, geography, historical club form, and head-to-head form — all in a single flat CSV, ready for machine learning and analysis.
 
 - 📦 **GitHub:** [RezaGooner/english-premier-league-match-dataset](https://github.com/RezaGooner/english-premier-league-match-dataset)
-- 📚 **Zenodo (citable, versioned):** [10.5281/zenodo.22050039](https://zenodo.org/records/22050039)
+- 📚 **Zenodo (citable, versioned):** [10.5281/zenodo.22050039](https://zenodo.org/records/22055597)
 
 ---
 
